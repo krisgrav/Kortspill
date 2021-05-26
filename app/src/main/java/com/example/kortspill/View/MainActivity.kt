@@ -1,7 +1,8 @@
-package com.example.kortspill
+package com.example.kortspill.View
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.kortspill.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
